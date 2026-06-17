@@ -1,0 +1,8 @@
+a-¿Cómo queda el máster después de estos cambios?
+
+A- en main
+
+B-por las ramas
+
+
+C- git checkout main, git pull origin main git merge
