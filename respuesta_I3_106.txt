@@ -6,3 +6,7 @@ B-por las ramas
 
 
 C- git checkout main, git pull origin main git merge
+
+d- si quedan actualizadas
+e-la conplegidad del uso y las variantes hechas
+f-git checkout main, git pull origin main
