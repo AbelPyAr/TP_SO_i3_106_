@@ -1,0 +1,16 @@
+vendor_id : AuthenticAMD
+
+cpu family : 23
+
+model
+
+: 24
+
+model name
+
+: AMD Ryzen 5 35000 with Radeon Vega Mobile Gfx
+
+
+cpu cores
+
+3
