@@ -10,3 +10,30 @@ C- git checkout main, git pull origin main git merge
 d- si quedan actualizadas
 e-la conplegidad del uso y las variantes hechas
 f-git checkout main, git pull origin main
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+Para modificar el archivo beta.txt en la rama creada por BETA, primero fue necesario descargar los cambios más recientes del repositorio remoto 
+y estar en la rama correspondiente. Luego se modificó el archivo agregando los datos solicitados, 
+se registraron los cambios mediante un commit. Se enviaron al repositorio remoto.
+
+Comandos utilizados:
+
+git fetch
+
+git checkout martinez
+
+git pull origin martinez
+
+beta.txt
+
+ifconfig >> beta.txt
+
+date >> beta.txt
+
+git add beta.txt
+
+git commit -m "ALFA modifica beta.txt"
+
+git push origin martinez
